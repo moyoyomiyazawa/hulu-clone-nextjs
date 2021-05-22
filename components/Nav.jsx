@@ -17,7 +17,7 @@ export const Nav = () => {
           </h2>
         ))}
       </div>
-      <div className='absolute top-0 right-0 bg-gradient-to-l from-[#06202A] h-10 w-1/2 pointer-events-none'></div>
+      <div className='absolute top-0 right-0 bg-gradient-to-l from-[#06202A] h-10 w-1/2 pointer-events-none 3xl:hidden'></div>
     </nav>
   );
 };
